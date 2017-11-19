@@ -1,5 +1,7 @@
 # PyData NYC 2017 NetworkX
 
+NOTE: This repo will be updated before the tutorial so make sure to pull new changes.
+
 ### Set Up
 
 For this tutorial, you will need Python3 and the following packages:
