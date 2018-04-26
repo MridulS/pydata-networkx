@@ -1,4 +1,4 @@
-# PyData NYC 2017 NetworkX
+# PyData London 2018 NetworkX
 
 NOTE: This repo will be updated before the tutorial so make sure to pull new changes.
 
@@ -18,14 +18,14 @@ Python2 may/may not work, no promises :)
 
 - `$ cd /path/to/your/directory`
 - Clone the repository from GitHub
-	 `$ git clone https://github.com/mriduls/pydatanyc-2017-networkx`
+	 `$ git clone https://github.com/mriduls/pydata-networkx`
 - `$ cd pydatanyc-2017-networkx`
 
 **OR**
 
-- Download the required notebooks from `https://github.com/MridulS/pydatanyc-2017-networkx/archive/master.zip`
+- Download the required notebooks from `https://github.com/MridulS/pydata-networkx/archive/master.zip`
 - unzip the files and change the directory to 
-		`$ cd pydatanyc-2017-networkx-master` 
+		`$ cd pydata-networkx-master` 
 
 ### Install packages 
 #### Using pip and virtualenv
@@ -56,4 +56,4 @@ Your browser will open to an index page where you can click on a notebook to run
 
 ### Credits
 
-This tutorial is inspired by the previous offerings of this tutorial at PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
+This tutorial is inspired by the previous offerings of this tutorial at PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
