@@ -56,4 +56,4 @@ Your browser will open to an index page where you can click on a notebook to run
 
 ### Credits
 
-This tutorial is inspired by the previous offerings of this tutorial at PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
+This tutorial is built on and inspired by the previous offerings of this tutorial at PyCon 2018, PyData London 2018, PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
