@@ -1,4 +1,4 @@
-# PyData London 2018 NetworkX
+# Networks, Game of Thrones and US Airports.
 
 NOTE: This repo will be updated before the tutorial so make sure to pull new changes.
 
