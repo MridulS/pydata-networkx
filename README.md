@@ -4,7 +4,7 @@ NOTE: This repo will be updated before the tutorial so make sure to pull new cha
 
 ### Set Up
 
-For this tutorial, you will need Python3 and the following packages:
+For this tutorial, you will need Python 3 and the following packages:
 
 - `networkx`
 - `pandas`
@@ -60,4 +60,4 @@ Your browser will open to an index page where you can click on a notebook to run
 
 ### Credits
 
-This tutorial is built on and inspired by the previous offerings of this tutorial at SciPy 2018, PyCon US 2018, PyData London 2018, PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
+This tutorial is built on and inspired by the previous offerings of this tutorial at PyData Delhi 2018, SciPy 2018, PyCon US 2018, PyData London 2018, PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
