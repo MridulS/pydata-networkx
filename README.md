@@ -19,6 +19,8 @@ Or you can use Binder (only if you have a stable WiFi connection)
 
 and another deployment of Binder https://notebooks.gesis.org/binder/v2/gh/mriduls/pydata-networkx/master
 
+If you have a microsoft account you can use Microsoft Azure notebooks too using
+https://notebooks.azure.com/MridulS/libraries/pydata-networkx, click on clone and you are good to do :)
 HTML notebooks
 - [introduction-and-game-of-thrones-instructor](https://mriduls.github.io/pydata-networkx/introduction-and-game-of-thrones-instructor.html)
 - [US-aiports-instructor](https://mriduls.github.io/pydata-networkx/US-aiports-instructor.html)
