@@ -17,6 +17,8 @@ Python2 may/may not work, no promises :)
 Or you can use Binder (only if you have a stable WiFi connection)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MridulS/pydata-networkx/master)
 
+and another deployment of Binder https://notebooks.gesis.org/binder/v2/gh/mriduls/pydata-networkx/master
+
 
 ### Clone/Download the repo
 
