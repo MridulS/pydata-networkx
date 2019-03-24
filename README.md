@@ -19,6 +19,9 @@ Or you can use Binder (only if you have a stable WiFi connection)
 
 and another deployment of Binder https://notebooks.gesis.org/binder/v2/gh/mriduls/pydata-networkx/master
 
+If you have a microsoft account you can use Microsoft Azure notebooks too using
+https://notebooks.azure.com/MridulS/libraries/pydata-networkx, click on clone and you are good to do :)
+
 HTML notebooks
 - [introduction-and-game-of-thrones-instructor](https://mriduls.github.io/pydata-networkx/introduction-and-game-of-thrones-instructor.html)
 - [US-aiports-instructor](https://mriduls.github.io/pydata-networkx/US-aiports-instructor.html)
@@ -64,6 +67,10 @@ If you have the Anaconda distribution of **Python 3** installed, then run the co
 
 Your browser will open to an index page where you can click on a notebook to run it.
 
+### Links
+
+There is an adpated version of this tutorial in Spanish, thanks to [@iris9112](https://github.com/iris9112/) -> https://github.com/iris9112/pycon2019_iris9112
+
 ### Credits
 
-This tutorial is built on and inspired by the previous offerings of this tutorial at PyData Delhi 2018, SciPy 2018, PyCon US 2018, PyData London 2018, PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
+This tutorial is built on and inspired by the previous offerings of this tutorial at PyData LA 2018, PyData NYC 2018, PyData Delhi 2018, SciPy 2018, PyCon US 2018, PyData London 2018, PyData NYC 2017, PyConDE 2017, PyCon PL 2017, EuroSciPy 2017, EuroSciPy 2016, SciPy India 2015 and is a part of (notebooks 7 and 8) Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
