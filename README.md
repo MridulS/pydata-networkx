@@ -1,8 +1,12 @@
-# Networks, Game of Thrones and US Airports.
+## Networks, Game of Thrones and US Airports.
+
+The contents of this notebooks are also available as a JupyterBook at http://ericmjl.github.io/Network-Analysis-Made-Simple/ (Section 5).
+
+You can also pick up the official EPUB/MOBI/PDF version of the book (Network Analysis Made Simple) on [LeanPub](http://leanpub.com/nams)! Purchasing a copy helps support the authors, and funds future improvements and updates to the book, which you will continue to receive as we make updates!
 
 NOTE: This repo will be updated before the tutorial so make sure to pull new changes.
 
-### Set Up
+#### Set Up
 
 For this tutorial, you will need Python 3 and the following packages:
 
@@ -12,15 +16,8 @@ For this tutorial, you will need Python 3 and the following packages:
 - `numpy`
 - `jupyter`
 
-Python2 may/may not work, no promises :)
-
 Or you can use Binder (only if you have a stable WiFi connection)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MridulS/pydata-networkx/master)
-
-and another deployment of Binder https://notebooks.gesis.org/binder/v2/gh/mriduls/pydata-networkx/master
-
-If you have a microsoft account you can use Microsoft Azure notebooks too using
-https://notebooks.azure.com/MridulS/libraries/pydata-networkx, click on clone and you are good to do :)
 
 HTML notebooks
 - [introduction-and-game-of-thrones-instructor](https://mriduls.github.io/pydata-networkx/introduction-and-game-of-thrones-instructor.html)
